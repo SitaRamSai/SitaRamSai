@@ -49,6 +49,11 @@ I'm Sita Ram Sai, an aspiring Software Engineer.
 
 <br/>
 
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SitaRamSai)](https://github.com/SitaRamSai/github-readme-stats)
+
+
 ### 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SitaRamSai&show_icons=true&theme=gotham" alt="sitaramsai" />
