@@ -1,4 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Sita Ram Sai</h1>
+<h3 align="center">An Aspiring Software developer </h3>
+
 <a href="https://twitter.com/sitaramsaikk">
   <img align="left" alt="Sita Ram Sai | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -11,7 +13,6 @@
 <br />
 
 
-I'm Sita Ram Sai, an aspiring Software Engineer.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
