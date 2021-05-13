@@ -13,14 +13,13 @@
 <br />
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on front end applicatons using React and Redux. I also tweek a little bit of Node JS and Spring. 
+- 🌱 I’m currently learning new ways to build web applications using Next JS.
+- 👯 I’m looking to collaborate on any open source projects and Wine tasting. 
+- 🤔 I’m looking for help with creating new ways we deal with web development. 
+- 💬 Ask me about how to do Masters in a year. 
+- 📫 How to reach me: https://twitter.com/sitaramsaikk 
+- ⚡ Fun fact: It's true that we live in a simulation and it's funny that it's taking us so long to understand. 
 -->
 
 
@@ -50,10 +49,13 @@
 
 <br/>
 
-### Top Languages
+### 💻 Top Languages
+
+<div align="center">  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SitaRamSai)](https://github.com/SitaRamSai/github-readme-stats)
 
+</div>
 
 ### 📈 My GitHub Stats
 
@@ -62,6 +64,5 @@
 <!--
 **SitaRamSai/SitaRamSai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 
