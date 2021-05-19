@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on front end applicatons using React and Redux. I also tweek a little bit of Node JS and Spring. 
 - 🌱 I’m currently learning new ways to build web applications using Next JS.
-- 👯 I’m looking to collaborate on any open source projects and Wine tasting. 
+- 👯 I’m looking to collaborate on any open source projects. 
 - 🤔 I’m looking for help with creating new ways we deal with web development. 
 - 💬 Ask me about how to do Masters in a year. 
 - 📫 How to reach me: https://twitter.com/sitaramsaikk 
